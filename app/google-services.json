@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "474763360244",
+    "firebase_url": "https://fmovies-65e69.firebaseio.com",
+    "project_id": "fmovies-65e69",
+    "storage_bucket": "fmovies-65e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474763360244:android:60258573563be623d0aba1",
+        "android_client_info": {
+          "package_name": "com.fmovies.freemoviehd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474763360244-6vpsjtde28epmokm8ogthlp3inb0b9eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIEPbmljE4PO5NifYVdqjYU1Or60xh_4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474763360244-6vpsjtde28epmokm8ogthlp3inb0b9eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
