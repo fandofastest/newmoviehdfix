@@ -370,6 +370,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                         System.out.println(searchurl+s);
                         intent.putExtra("url",searchurl+s);
                         intent.putExtra("title","Search Result");
+                        intent.putExtra("type","search");
                         startActivity(intent);
 
                         return false;
